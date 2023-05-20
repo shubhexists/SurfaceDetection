@@ -1,5 +1,7 @@
 # SurfaceDetection
-This project focuses on surface detection using the OpenCV library in Python. It was developed for a Mars Rover Competition to determine the characteristics of the Martian terrain based on video feed or individual images. The code classifies the surface as rough, smooth, or other based on specific visual cues.
+This project focuses on surface detection using the OpenCV library in Python. It was developed for a Mars Rover Competition on behalf of Team Inferno DTU to determine the characteristics of the Martian terrain based on video feed or individual images. The code classifies the surface as rough, smooth, or other based on specific visual cues.
+
+The python file TopicToVideo.py is used for the usability of this python code with ROS topics as we were recieving remote video feed from the camera on our Mars rover.
 
 Prerequisites
 Before running the code, make sure you have the following dependencies installed:
