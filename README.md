@@ -22,7 +22,7 @@ For video feed:
 
 1.) Clone the repository:
 ```
-git clone https://github.com/your-username/surface-detection.git
+[git clone https://github.com/your-username/surface-detection.git](https://github.com/shubhexists/SurfaceDetection)
 cd surface-detection
 ```
 2.) Run the Python script:
@@ -35,7 +35,7 @@ For individual images:
 
 1.) Clone the repository:
 ```
-git clone https://github.com/your-username/surface-detection.git
+[git clone https://github.com/your-username/surface-detection.git](https://github.com/shubhexists/SurfaceDetection)
 cd surface-detection
 ```
 2.) Place the image path at the appropriate location in the file.
